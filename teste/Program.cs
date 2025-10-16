@@ -1,0 +1,10 @@
+﻿Console.WriteLine(0%3);
+Console.WriteLine(1 % 3);
+Console.WriteLine(2 % 3);
+Console.WriteLine(3 % 3);
+Console.WriteLine(4 % 3);
+Console.WriteLine(5 % 3);
+Console.WriteLine(6 % 3);
+Console.WriteLine(7 % 3);
+Console.WriteLine(8 % 3);
+Console.WriteLine(9 % 3);
